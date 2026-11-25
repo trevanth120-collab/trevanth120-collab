@@ -45,6 +45,16 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevanth120-collab&layout=compact&theme=tokyonight)
 
+
+## 👀 Profile Visitors
+
+![Visitors](https://komarev.com/ghpvc/?username=trevanth120-collab&color=blue&style=flat-square)
+
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=trevanth120-collab&theme=tokyonight)](https://git.io/streak-stats)
+
 <!--
 **trevanth120-collab/trevanth120-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
