@@ -39,6 +39,12 @@
 - GitHub: https://github.com/trevanth120-collab
 
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trevanth120-collab&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trevanth120-collab&layout=compact&theme=tokyonight)
+
 <!--
 **trevanth120-collab/trevanth120-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
